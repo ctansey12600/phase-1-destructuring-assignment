@@ -47,4 +47,4 @@ const[indg] = colors.slice(5,6)
 const {muppetName, color, song, job, partner} = muppet
 // 8. Use destructuring to assign songs 2 and 4, and Kermit's job and partner
 
-const {song}
+const {song2, song4, nestedJob, nestedPartner} = nestedMuppet
